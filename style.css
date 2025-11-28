@@ -1,0 +1,14 @@
+.logo-small {
+  width: 30px;
+  height: 24px;
+}
+
+.offerte-della-settimana .row .col-md-4 .card img {
+  width: 100%;
+  height: 225px;
+  object-fit: cover;
+}
+
+.offerta-del-giorno .col-12 .card-body .card-text .btn {
+  width: 33%;
+}
